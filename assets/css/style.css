@@ -1,0 +1,35 @@
+/*body {
+	background-color: blue;
+}*/
+header {
+	font-family: 'Lobster', cursive;
+	font-size: 300%;
+	font:blue;
+	opacity:50%;
+
+
+}
+
+
+body {
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
+/*.container {
+  background-image: url('beach.jpg');
+  width:100%;*/
+
+}
+
+#main-stats {
+	float:left;
+	position:absolute;
+	width: 70%;
+
+}
+#images {
+	float:left;
+	position: relative;
+	width:30%;
+}
